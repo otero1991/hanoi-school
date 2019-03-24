@@ -28,4 +28,4 @@ Please confirm that you have successfully installed Miniconda by opening a conso
  
 ### 3) Install required packages
 
-The list of required packages is contained in the file `requirements.txt`. To install all of them open a console on the folder where you have the `requirements.txt` file and type `pip install -r requirements.txt`.
+The list of required packages is contained in the file [requirements.txt](/requirements.txt). To install all of them open a console on the folder where you have the file and type `pip install -r requirements.txt`.
