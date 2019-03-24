@@ -14,13 +14,13 @@ For the exercises we are going to use Python (Miniconda distribution).
 
 The installer files for all platforms (Windows, Lunix, Mac) can be found in:
 
-https://docs.conda.io/en/latest/miniconda.html
+[https://docs.conda.io/en/latest/miniconda.html](https://docs.conda.io/en/latest/miniconda.html)
 
 Please download the appropiate installer and run it.
 
- - If your computer has a 64-bit operating system (most likely) select the *64-bit (exe installer)* for *Python 3.7*.
+ - If your computer has a 64-bit operating system (most likely) select the *64-bit installer* for *Python 3.7*.
 
- - If your system has a 32-bit operating system (unlikely) you will need to install the *32-bit (exe installer)* for *Python 3.7* and Windows.
+ - If your system has a 32-bit operating system (unlikely) you will need to install the *32-bit installer* for *Python 3.7*.
  
  - If you get asked if you want to add the Miniconda directory to the `PATH` select yes.
  
