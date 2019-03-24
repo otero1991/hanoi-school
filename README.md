@@ -10,7 +10,7 @@ If you are using Git, then this happens automatically, otherwise download a .zip
 
 ### 2) Install Python
 
-For the exercises we are going to use Python. We are going to use the Miniconda distribution, and then install some require packages for the course.
+For the exercises we are going to use Python (Miniconda distribution).
 
 The installer files for all platforms (Windows, Lunix, Mac) can be found in:
 
@@ -28,4 +28,4 @@ Please confirm that you have successfully installed Miniconda by opening a conso
  
 ### 3) Install required packages
 
-The list of required packages is contained in the file `requirements.txt`. To install all of them open a console on the folder where you have the `requirements.txt` file and type `pip install -r requirements.txt`
+The list of required packages is contained in the file `requirements.txt`. To install all of them open a console on the folder where you have the `requirements.txt` file and type `pip install -r requirements.txt`.
