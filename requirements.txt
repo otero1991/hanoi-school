@@ -1,0 +1,9 @@
+numpy
+scipy
+matplotlib
+tensorflow
+scikit-learn
+keras
+scikit-image
+jupyter
+imageio
