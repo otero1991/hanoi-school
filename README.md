@@ -6,7 +6,7 @@ Here you will find the course exercises as well as the solutions. I will upload 
 ## Installation instructions
 
 ### 1) Create folder for the exercises 
-If you are using Git, then this happens automatically, otherwise download a .zip file with the content of the repository and uncompress it.
+If you are using Git, then this happens automatically, otherwise download a .zip file with the content of the repository and uncompress it. Be careful that you don't loose your own solutions when updating the folder!
 
 ### 2) Install Python
 
@@ -29,3 +29,7 @@ Please confirm that you have successfully installed Miniconda by opening a conso
 ### 3) Install required packages
 
 The list of required packages is contained in the file [requirements.txt](/requirements.txt). To install all of them open a console on the folder where you have the file and type `pip install -r requirements.txt`.
+
+### 4) Run Jupyter Notebook
+When everything is installed open a terminal on the exercises folder and run `jupyter notebook`.
+
