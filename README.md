@@ -24,7 +24,11 @@ Please download the appropiate installer and run it.
  
  - If you get asked if you want to add the Miniconda directory to the `PATH` select yes.
  
-Please confirm that you have successfully installed Miniconda by opening a console and typing `conda`.
+**UPDATE**
+One of the required packages *tensorflow* will only run with a 64-bit operating system.
+ 
+**UPDATE**
+Please confirm that you have successfully installed Miniconda by opening a console and typing `conda`. If an error appears then Conda was not added to the `PATH`. You have to search for the *Anaconda Promt* terminal and open it. Then you have to change the directory the terminal is pointing to, using for example `cd local_folder\local_folder2`, to the directory that contains the exercises.
  
 ### 3) Install required packages
 
@@ -33,6 +37,21 @@ The list of required packages is contained in the file [requirements.txt](/requi
 ### 4) Run Jupyter Notebook
 When everything is installed open a terminal on the exercises folder and run `jupyter notebook`.
 
+
+## Documentation
+
+Whenever you are programming in a new language it is really important to use the documentation to find out what methods are available on each package. 
+
+These are some of the package documentations that might be helpful for you in this course:
+ - [**numpy**](http://www.numpy.org/): for scientific computing (vectors and matrices operations)
+ - [**numpy.linalg**](https://docs.scipy.org/doc/numpy/reference/routines.linalg.html): for linear algebra methods.
+ - [**skimage**](http://scikit-image.org/docs): for image processing tasks (here you can find the *Radon* transform)
+ - [**sklearn**](https://scikit-learn.org): for machine learning tasks, includes example datasets and many usefull functions for doing machine learning.
+ - [**keras**](https://keras.io/): friendly common interface for creating neural networks using different backends, such as tensorflow and theano.
+ 
+
 ## Exercises notebooks
 
  - [Introduction](/introduction.ipynb)
+ - [Inverse Problems (Part 1)](/inverse_problems_1.ipynb)
+ - [Neural Networks (Part 1)](/neural_networks_1.ipynb)
