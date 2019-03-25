@@ -33,3 +33,6 @@ The list of required packages is contained in the file [requirements.txt](/requi
 ### 4) Run Jupyter Notebook
 When everything is installed open a terminal on the exercises folder and run `jupyter notebook`.
 
+## Exercises notebooks
+
+ - [Introduction](/introduction.ipynb)
