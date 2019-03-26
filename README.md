@@ -52,6 +52,8 @@ These are some of the package documentations that might be helpful for you in th
 
 ## Exercise notebooks
 
- - [Introduction](https://github.com/otero-bremen/hanoi-school/blob/master/introduction.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/introduction.ipynb" download>[Download]</a>
- - [Inverse Problems (Part 1)](https://github.com/otero-bremen/hanoi-school/blob/master/inverse_problems_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/inverse_problems_1.ipynb" download>[Download]</a>
- - [Neural Networks (Part 1)](https://github.com/otero-bremen/hanoi-school/blob/master/neural_networks_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/neural_networks_1.ipynb" download>[Download]</a>
+ - [Introduction](https://github.com/otero-bremen/hanoi-school/blob/master/introduction.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/introduction.ipynb" download>[Download]</a> Introduction to python and examples for the NumPy and Matplotlib packages.
+ - [Inverse Problems (Part 1)](https://github.com/otero-bremen/hanoi-school/blob/master/inverse_problems_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/inverse_problems_1.ipynb" download>[Download]</a> Analytic methods for solving Inverse Problems.
+ - [Neural Networks (Part 1)](https://github.com/otero-bremen/hanoi-school/blob/master/neural_networks_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/neural_networks_1.ipynb" download>[Download]</a> Introduction to Neural Networks. Regression and Binary Classification.
+ - [Neural Networks and Inverse Problems (Part 1)](https://github.com/otero-bremen/hanoi-school/blob/master/neural_networks_and_inverse_problems_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/neural_networks_and_inverse_problems_1.ipynb" download>[Download]</a> Example of the 2x2 matrices.
+ - [Neural Networks (Part 2)](https://github.com/otero-bremen/hanoi-school/blob/master/neural_networks_2.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/neural_networks_2.ipynb" download>[Download]</a> Convolutional Neural Networks for classifying digits (MNIST).
