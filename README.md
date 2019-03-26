@@ -52,6 +52,6 @@ These are some of the package documentations that might be helpful for you in th
 
 ## Exercises notebooks
 
- - [Introduction](/introduction.ipynb)
- - [Inverse Problems (Part 1)](/inverse_problems_1.ipynb)
- - [Neural Networks (Part 1)](/neural_networks_1.ipynb)
+ - [Introduction](/introduction.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/introduction.ipynb" download>[Download]</a>
+ - [Inverse Problems (Part 1)](/inverse_problems_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/inverse_problems_1.ipynb" download>[Download]</a>
+ - [Neural Networks (Part 1)](/neural_networks_1.ipynb) <a href="https://raw.githubusercontent.com/otero-bremen/hanoi-school/master/neural_networks_1.ipynb" download>[Download]</a>
