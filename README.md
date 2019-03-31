@@ -2,6 +2,8 @@
 
 Here you will find the course exercises as well as the solutions. I will upload the exercises gradually so using it as a Git repository is a good idea, otherwise you can download everyday the updated .zip with all the files.
 
+If you have any question or find any error please write me an email to otero@uni-bremen.de.
+
 
 ## Installation instructions
 
@@ -24,10 +26,10 @@ Please download the appropiate installer and run it.
  
  - If you get asked if you want to add the Miniconda directory to the `PATH` select yes.
  
-**UPDATE**
+**UPDATE**:
 One of the required packages *tensorflow* will only run with a 64-bit operating system.
  
-**UPDATE**
+**UPDATE**:
 Please confirm that you have successfully installed Miniconda by opening a console and typing `conda`. If an error appears then Conda was not added to the `PATH`. You have to search for the *Anaconda Promt* terminal and open it. Then you have to change the directory the terminal is pointing to, using for example `cd local_folder\local_folder2`, to the directory that contains the exercises.
  
 ### 3) Install required packages
